@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdeb6c80.css",
+    "main.js": "/static/js/main.d42c73f0.js",
+    "static/js/453.fd790c76.chunk.js": "/static/js/453.fd790c76.chunk.js",
+    "static/media/Header Illustration.png": "/static/media/Header Illustration.01f9789e5bb5410ce0e3.png",
+    "static/media/Feature Image.png": "/static/media/Feature Image.ac93783e36c84b672bd8.png",
+    "static/media/blog01.png": "/static/media/blog01.a70724b9d4d51ea2fdd2.png",
+    "static/media/blog03.png": "/static/media/blog03.c62641909d5d38a2d5e7.png",
+    "static/media/blog04.png": "/static/media/blog04.f6c045e9795f2bb35c34.png",
+    "static/media/blog05.png": "/static/media/blog05.b7e77e3b684c850ee6c7.png",
+    "static/media/blog02.png": "/static/media/blog02.7c37bdc6635ee526957b.png",
+    "static/media/Group 81.png": "/static/media/Group 81.fc1245a27bc9f8fb19d9.png",
+    "static/media/dropbox.png": "/static/media/dropbox.256390c306b88ca3ec3c.png",
+    "static/media/atlassian.png": "/static/media/atlassian.173be7b820dfbe13cb53.png",
+    "static/media/GPT-3.svg": "/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/index.html",
+    "main.fdeb6c80.css.map": "/static/css/main.fdeb6c80.css.map",
+    "main.d42c73f0.js.map": "/static/js/main.d42c73f0.js.map",
+    "453.fd790c76.chunk.js.map": "/static/js/453.fd790c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdeb6c80.css",
+    "static/js/main.d42c73f0.js"
+  ]
+}
