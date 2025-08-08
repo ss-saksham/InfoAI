@@ -1,7 +1,7 @@
 # 🌐 GPT-3
 
 ## 🚀 Preview
-<video src="/DemoVideo1.mp4" controls width="600"></video>
+<video src="https://raw.githubusercontent.com/ss-saksham/InfoAI/main/DemoVideo1.mp4" controls width="600"></video>
 <img src="src/assets/Frame%201.png" alt="Website Preview" width="800">
 
 ## 📌 Overview
