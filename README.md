@@ -1,4 +1,4 @@
-# 🌐 GPT-3
+# 🌐 GPT-4
 
 ## 🚀 Preview
 <video src="" controls width="600"></video>
